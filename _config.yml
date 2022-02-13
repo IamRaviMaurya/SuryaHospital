@@ -38,7 +38,7 @@ markdown: kramdown
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/figure
