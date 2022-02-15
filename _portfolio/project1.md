@@ -2,11 +2,11 @@
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: assets/img/dreams-thumbnail.png
+  thumbnail: assets/img/escape-thumbnail.png
 
 title: Project Threads
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/dreams.png
+image: assets/img/escape.png
 alt: Shirts on a hanger
 
 
