@@ -1,16 +1,21 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
 
 caption:
   title: Explore
   subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/op.png
+
+title: Operation Theater
+subtitle: Lorem ipsum dolor sit amet consectetur.
+image: assets/img/FB_IMG_1625538688187.png
+alt: Keep Exploring
+
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+ Anesthesia machine. One of the most vital operation theater equipment, Anesthesia machine provides patients with a balanced mixture of anesthesia and life-sustaining gases. ...
+Suction machine. 
+Sterilizer machine.
+Defibrillators. 
 
 {:.list-inline}
 
